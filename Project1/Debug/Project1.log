@@ -1,0 +1,10 @@
+﻿  LZW.cpp
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\project1\project1\lzw.h(35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\project1\project1\lzw.h(62): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\project1\project1\lzw.cpp(56): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\project1\project1\lzw.cpp(123): warning C4244: '+=': conversion from 'double' to 'unsigned short', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\project1\project1\lzw.cpp(143): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\project1\project1\lzw.cpp(182): warning C4244: '=': conversion from 'std::streamoff' to 'std::size_t', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\project1\project1\lzw.cpp(199): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\s9552\OneDrive\文件\Visual Studio 2015\Projects\Project1\Debug\ImageVideoCompression.exe
+  Project1.vcxproj -> C:\Users\s9552\OneDrive\文件\Visual Studio 2015\Projects\Project1\Debug\ImageVideoCompression.pdb (Partial PDB)
